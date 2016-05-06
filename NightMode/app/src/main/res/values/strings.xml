@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Night Mode</string>
+    <string name="start">Start</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="alpha">Alpha</string>
+    <string name="stop">STOP</string>
+    <string name="app">Night Mode Is Running. Click To Launch App</string>
+    <string name="action_settings">Settings</string>
+    <string name="brightness">Minimum Brightness</string>
+    <string name="brightness_desc">Set minimum brightness possible when service is running</string>
+    <string name="notification">Show Notification</string>
+    <string name="notification_desc">Show notification when service is running</string>
+    <string name="dev_name">By Sarbajit Saha</string>
+</resources>
