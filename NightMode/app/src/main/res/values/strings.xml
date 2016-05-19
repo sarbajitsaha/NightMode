@@ -13,4 +13,6 @@
     <string name="notification">Show Notification</string>
     <string name="notification_desc">Show notification when service is running</string>
     <string name="dev_name">By Sarbajit Saha</string>
+    <string name="permission_denied">Permission denied. This app can\'t work without that permission. Please enable it from Settings. The app will exit now</string>
+    <string name="permission_granted">Permission granted!</string>
 </resources>
