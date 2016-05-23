@@ -12,3 +12,11 @@ Android App to apply various filters on the screen and reduce brightness beyond 
   
 ##Screenshots
  
+![1st screenshot](https://raw.githubusercontent.com/sarbajitsaha/NightMode/master/Screenshots/1.png)
+![2nd screenshot](https://raw.githubusercontent.com/sarbajitsaha/NightMode/master/Screenshots/2.png)
+![3rd screenshot](https://raw.githubusercontent.com/sarbajitsaha/NightMode/master/Screenshots/3.png)
+![4th screenshot](https://raw.githubusercontent.com/sarbajitsaha/NightMode/master/Screenshots/4.png)
+
+##To do list
+* Add a settings and a help page
+* Implement automatic timer to start the app with predefined filters at a particular time
