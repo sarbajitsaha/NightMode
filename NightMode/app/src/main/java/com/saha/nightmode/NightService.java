@@ -119,7 +119,7 @@ public class NightService extends Service {
             NotificationCompat.Builder notification = new NotificationCompat.Builder(getApplicationContext());
             notification.setContentTitle(getResources().getString(R.string.app_name));
             notification.setContentText(getResources().getString(R.string.app));
-            notification.setSmallIcon(R.drawable.logo);
+            notification.setSmallIcon(R.drawable.logo_noti);
             notification.setAutoCancel(true)
                         .setOngoing(true);
             notification.setPriority(NotificationCompat.PRIORITY_MAX);
